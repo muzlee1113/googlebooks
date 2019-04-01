@@ -1,0 +1,22 @@
+/* .cardcontainer {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 320px));
+    grid-gap: 20px;
+    width: 100%;
+    max-width: 1040px;
+    margin: 0 auto 30px;
+    margin-top: 20px;
+
+} 
+
+.card.book{
+    position: relative;
+    width: 100%
+} */
+
+
+img{
+    width: 320px;
+    height: 100%;
+    object-fit: cover
+} 
